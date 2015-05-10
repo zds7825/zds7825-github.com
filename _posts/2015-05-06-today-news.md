@@ -1,5 +1,5 @@
 ---layout: post
-title:  "Today news"“
+title:  "Today news!"“
 date:   2015-05-06 12:51:32
 categories: jekyll update
 ---
